@@ -15,4 +15,5 @@ git commit -m "content"
 커밋함.
 
 git push origin master
-커밋된 내용을 푸시함.
+커밋된 내용을 푸시합니다.
+
