@@ -10,11 +10,8 @@
 
 2주차
 1. 강의 들어가기 **[[summary](https://github.com/kiJu2/LikeLion/blob/master/2%EC%A3%BC%EC%B0%A8/%EA%B0%95%EC%9D%98%20%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.md)]**
-2. HTTP JSON API **[[summary]
-(https://github.com/kiJu2/LikeLion/blob/master/2%EC%A3%BC%EC%B0%A8/HTTP%2CJSON%2CAPI%20%EA%B0%9C%EB%85%90.md
-)]**
-3. Postman 실습, 공적마스크 API 살펴보기 **[[summary]
-(https://github.com/kiJu2/LikeLion/blob/master/2%EC%A3%BC%EC%B0%A8/Postman%20%EC%8B%A4%EC%8A%B5%2C%20%EA%B3%B5%EC%A0%81%EB%A7%88%EC%8A%A4%ED%81%AC%20API%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)]**
+2. HTTP JSON API **[[summary](https://github.com/kiJu2/LikeLion/blob/master/2%EC%A3%BC%EC%B0%A8/HTTP%2CJSON%2CAPI%20%EA%B0%9C%EB%85%90.md)]**
+3. Postman 실습, 공적마스크 API 살펴보기 **[[summary](https://github.com/kiJu2/LikeLion/blob/master/2%EC%A3%BC%EC%B0%A8/Postman%20%EC%8B%A4%EC%8A%B5%2C%20%EA%B3%B5%EC%A0%81%EB%A7%88%EC%8A%A4%ED%81%AC%20API%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)]**
 4. Javascript 기초 **[[summary](https://github.com/kiJu2/LikeLion/blob/master/2%EC%A3%BC%EC%B0%A8/Javascript%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md)]**
 5. Fetch API **[[summary](https://github.com/kiJu2/LikeLion/blob/master/2%EC%A3%BC%EC%B0%A8/Fetch%20API.md)]**
 6. 메인화면 UI 작업(실습) **[[summary]()]**
